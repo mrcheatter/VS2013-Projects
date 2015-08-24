@@ -1,0 +1,5 @@
+C:\Users\khamadyarovrr1\Documents\Visual Studio 2013\Projects\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll
+C:\Users\khamadyarovrr1\Documents\Visual Studio 2013\Projects\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.pdb
+C:\Users\khamadyarovrr1\Documents\Visual Studio 2013\Projects\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.csprojResolveAssemblyReference.cache
+C:\Users\khamadyarovrr1\Documents\Visual Studio 2013\Projects\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.dll
+C:\Users\khamadyarovrr1\Documents\Visual Studio 2013\Projects\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.pdb
